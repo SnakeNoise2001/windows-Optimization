@@ -1,5 +1,0 @@
-E:\Project\ProjectCMD\ProjectCMD\bin\Release\net6.0-windows\publish\ProjectCMD.exe
-E:\Project\ProjectCMD\ProjectCMD\bin\Release\net6.0-windows\publish\ProjectCMD.dll
-E:\Project\ProjectCMD\ProjectCMD\bin\Release\net6.0-windows\publish\ProjectCMD.deps.json
-E:\Project\ProjectCMD\ProjectCMD\bin\Release\net6.0-windows\publish\ProjectCMD.runtimeconfig.json
-E:\Project\ProjectCMD\ProjectCMD\bin\Release\net6.0-windows\publish\ProjectCMD.pdb
