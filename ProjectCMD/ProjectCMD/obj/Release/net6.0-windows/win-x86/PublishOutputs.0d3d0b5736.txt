@@ -1,2 +1,0 @@
-C:\Users\Admin\Downloads\ProjectCMD\ProjectCMD\ProjectCMD\ProjectCMD\bin\Release\net6.0-windows\publish\win-x86\ProjectCMD.pdb
-C:\Users\Admin\Downloads\ProjectCMD\ProjectCMD\ProjectCMD\ProjectCMD\bin\Release\net6.0-windows\publish\win-x86\ProjectCMD.exe
